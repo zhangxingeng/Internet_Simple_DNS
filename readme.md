@@ -1,6 +1,7 @@
 Project 1: Recursive DNS
 
 Check out the Demo Video!
+<video src="./test.mp4" width="320" height="200" controls preload></video>
 
 a client,two server programs: RS (a simplified root DNS server) and TS (a simplified top-level DNS server).
 
