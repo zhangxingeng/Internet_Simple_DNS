@@ -1,7 +1,8 @@
-Project 1: Recursive DNS
+#Project 1: Recursive DNS
 
-Check out the Demo Video!
-<video src="https://github.com/zhangxingeng/Internet_Simple_DNS/blob/master/test.mp4" width="320" height="200" controls preload></video>
+Check out the <a href="https://drive.google.com/file/d/1FgXRNk2FwZPEs1DyBt41Hq__ftDH0u27/view?usp=sharing" target="_blank">DEMO Video</a>!
+ 
+
 
 
 a client,two server programs: RS (a simplified root DNS server) and TS (a simplified top-level DNS server).
