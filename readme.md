@@ -5,7 +5,7 @@
 
 
 
-
+This code is fully written by Xingeng Zhang. 
 #### -----------Detailed Description-----------
 a client,two server programs: RS (a simplified root DNS server) and TS (a simplified top-level DNS server).
 
